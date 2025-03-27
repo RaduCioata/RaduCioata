@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science student from Cluj-Napoca</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RaduCioata" alt="RaduCioata" /></a> </p>
+//<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RaduCioata" alt="RaduCioata" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
