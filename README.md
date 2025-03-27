@@ -2,8 +2,6 @@
 <h3 align="center">A Computer Science student from Cluj-Napoca</h3>
 
 
-//<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RaduCioata" alt="RaduCioata" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cioataradu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cioataradu" height="30" width="40" /></a>
@@ -15,9 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaduCioata&show_icons=true&locale=en&layout=compact" alt="RaduCioata" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RaduCioata&show_icons=true&locale=en" alt="RaduCioata" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaduCioata&" alt="RaduCioata" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaduCioata/RaduCioata/output/pacman-contribution-graph-dark.svg">
